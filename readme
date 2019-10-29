@@ -1,4 +1,8 @@
 ** CFIAR10 - 50,000 images meticulously categorized by the University of Toronto **
+**********************************************************************************************************************
+ I am experiencing overfitting during training. The cnn will become very accurate with the data it has the answers to
+ but only 70 percent accurate with data it validates itself on.
+***********************************************************************************************************************
 
 10/21/2019 - testing to see if raising the validation split to 0.2 will raise the val_accuracy above 0.7
     val_accuracy dipped at the 15th epoch - 0.6369
