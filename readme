@@ -9,4 +9,6 @@
     val_accuracy totalled 0.67840 at the end of 50 epoch run
     FAILED
 
-
+10/29/2019 - There is no difference in the max validation accuracy that the cnn will reach when the 512 neuron and 1024 neuron models
+are compared. Additionally there is not rise above 0.7 val_accuracy when creating and only creating a second Dense layer of 512 or 1024
+neurons. 
