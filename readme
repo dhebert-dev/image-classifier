@@ -1,0 +1,12 @@
+** CFIAR10 - 50,000 images meticulously categorized by the University of Toronto **
+
+10/21/2019 - testing to see if raising the validation split to 0.2 will raise the val_accuracy above 0.7
+    val_accuracy dipped at the 15th epoch - 0.6369
+    val_accuracy totalled 0.6844 at the end of 50 epoch run
+    FAILED
+
+10/22/2019 - Testing to see if killing more neurons will improve accuracy above 0.7
+    val_accuracy totalled 0.67840 at the end of 50 epoch run
+    FAILED
+
+
